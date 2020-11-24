@@ -22,7 +22,7 @@ namespace MyApplication
             Console.WriteLine(country);
         }
 
-        //Method with multiple parameters
+        //Method with multiple parameters. U can add as much parameters as u want.
         static void MyMethodMultiParam(string fname, int age)
         {
             Console.WriteLine(fname + " is " + age);
